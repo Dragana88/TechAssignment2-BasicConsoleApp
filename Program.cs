@@ -1,4 +1,4 @@
-﻿// Programer: Dragana Nikic
+﻿// Programmer: Dragana Nikic
 // Project: Tech Assignment #2 - Basic Console App
 // Due Date: 01/28/2022
 // Description: Individual Tech #2 Assignment 
